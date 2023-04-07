@@ -4,3 +4,5 @@ Olá pessoal, estou aqui para compartilhar sobre o meu projeto de análise de da
 Para iniciar a análise, realizei uma limpeza nos dados, removendo informações duplicadas e tratando valores faltantes. Em seguida, executei uma análise exploratória para identificar as principais características dos clientes, tais como idade, gênero, renda e histórico de crédito. Utilizei gráficos e tabelas para visualizar essas informações de forma clara e objetiva.
 
 A partir desses resultados, consegui identificar os melhores clientes e as estratégias mais eficazes para fidelizá-los e aumentar a rentabilidade da carteira de clientes. Também identifiquei oportunidades de melhorias em processos internos, como a análise de crédito e a gestão de risco.
+
+Em conclusão, o projeto de análise de dados foi crucial para entender melhor a carteira de clientes de cartões de crédito e identificar oportunidades de melhoria. A análise de dados permitiu tomar decisões mais informadas e embasadas em fatos e números, o que é fundamental em um mercado cada vez mais competitivo.
